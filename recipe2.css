@@ -1,0 +1,27 @@
+.step{
+    background-color: lightcoral;
+      border: 2px dashed;
+      border-radius: 13px;
+    border-color:indianred;
+    width: 400px;
+ }
+  
+ .step2{
+    background-color: lightcoral;
+    border: 2px dashed;
+    border-radius: 13px;
+  border-color:indianred;
+  width: 850px;
+ }
+ .title{
+    border:7px dotted;
+      border-color: indianred;
+    font-family: monospace;
+    border-radius: 15%;
+  }
+ 
+ 
+ u{
+    color:crimson
+ }
+ 
